@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 print("esto es un conflicto")
 print("esto es un conflicto")
 print("esto es un conflicto")
@@ -46,3 +47,20 @@ print("esto es un conflicto")
 print("esto es un conflicto")
 print("esto es un conflicto")
 print("esto es un conflicto")
+=======
+sin llorar chavos, sin miedo a la escuela por que esta feo
+hay que teminar la tesisi yaaaaaaaa!!!!!!!!!
+no tengo gas 
+tengo hambre!!!!
+tengo sueño!!!
+quiero mas dinero!!
+hola
+hola
+ya me estafaron!!
+
+
+ya pasenos con 10!!
+
+
+
+>>>>>>> Stashed changes
